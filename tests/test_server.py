@@ -5,6 +5,7 @@ from __future__ import annotations
 import sys
 
 import pytest
+
 from opencollab_mcp import server
 from opencollab_mcp.constants import __version__
 
